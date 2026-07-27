@@ -1,4 +1,4 @@
-# Trin-Tech Recon Suite
+# TrinTech Digital Defense Recon Suite
 
 > **TrinTech Digital Defense** — Mass OSINT Username Enumeration & Digital Footprint Scanner
 
